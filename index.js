@@ -1,2 +1,3 @@
 // eslint-disable-next-line import/no-unresolved
 module.exports = require('./build/OutsideClickHandler');
+exports.useOutsideClickHandler = require('./build/useOutsideClickHandler');
